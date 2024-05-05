@@ -1,0 +1,7 @@
+C:\Users\lehal\source\repos\clasepersona\clasepersona\bin\Debug\clasepersona.exe.config
+C:\Users\lehal\source\repos\clasepersona\clasepersona\bin\Debug\clasepersona.exe
+C:\Users\lehal\source\repos\clasepersona\clasepersona\bin\Debug\clasepersona.pdb
+C:\Users\lehal\source\repos\clasepersona\clasepersona\obj\Debug\clasepersona.csproj.AssemblyReference.cache
+C:\Users\lehal\source\repos\clasepersona\clasepersona\obj\Debug\clasepersona.csproj.CoreCompileInputs.cache
+C:\Users\lehal\source\repos\clasepersona\clasepersona\obj\Debug\clasepersona.exe
+C:\Users\lehal\source\repos\clasepersona\clasepersona\obj\Debug\clasepersona.pdb
